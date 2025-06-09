@@ -17,6 +17,7 @@ export default function Counter({ firstName, ...props }) {
       >
         Click Me!
       </button>
+      jhg
     </>
   );
 }
